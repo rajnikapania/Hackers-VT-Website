@@ -1,0 +1,25 @@
+/*#officer_header {
+	font-weight: 300;
+	text-transform: uppercase;
+}
+
+.row {
+	margin: 0 !important;
+}*/
+
+/*.maroon {
+	background-color: #6A2C3E;
+}
+*/
+
+.maroon.lighten-1 {
+	background-color: #b03060 !important;
+}
+
+.maroon {
+	background-color: #861f41 !important;
+}
+
+.hokiestone {
+	background-color: #75787B !important;
+}
