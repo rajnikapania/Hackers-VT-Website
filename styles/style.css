@@ -12,8 +12,12 @@
 }
 */
 
+.maroon.lighten-5 {
+	background-color: #c4356b !important;
+}
+
 .maroon.lighten-1 {
-	background-color: #b03060 !important;
+	background-color: 	#b03060 !important;
 }
 
 .maroon {
@@ -23,3 +27,4 @@
 .hokiestone {
 	background-color: #75787B !important;
 }
+
