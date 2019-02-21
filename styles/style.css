@@ -12,20 +12,38 @@
 }
 */
 
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
 
 .maroon.lighten-5 {
-	background-color: #c4356b !important;
+	background-color: #5b1002 !important;
 }
 
 .maroon.lighten-1 {
-	background-color: 	#b03060 !important;
+	background-color: 	#420a00 !important;
 }
 
 .maroon {
-	background-color: #861f41 !important;
+	background-color: #350800 !important;
 }
 
 .hokiestone {
 	background-color: #75787B !important;
+}
+
+.orange {
+    background-color: #CF4420 !important;
+}
+
+.orange-lighten-3 {
+    background-color: #e2662d !important;
 }
 
